@@ -1,3 +1,3 @@
 function alertUser()  {
-  alert('HELLO! Welcome');
+  alert('Po ra erri puka poyi modda gudu');
 }
