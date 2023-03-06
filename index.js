@@ -1,3 +1,3 @@
 function alertUser()  {
-  alert('Po ra erri puka poyi modda gudu');
+  alert('Po ra erri puka poyi modda gudu puka');
 }
