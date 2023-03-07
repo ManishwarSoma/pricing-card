@@ -1,3 +1,3 @@
 function alertUser()  {
-  alert('Hello');
+  alert('Hello, Welcome');
 }
